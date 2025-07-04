@@ -1,5 +1,15 @@
-# currencydetector
-indian currency detector through website
+# currencydetector #indian currency detector #indian currency datasets
+INDIAN CURRENCY DETECTOR PROJECT 
+
+Purpose Of This Project:
+This project was primarily created to assist vision-impaired individuals in identifying Indian currency notes accurately and independently.
+In real-life scenarios, many visually impaired people face difficulties when trying to recognize the value of currency notes — especially newer versions introduced by the Reserve Bank of India (RBI) with varying colors, sizes, and layouts. While tactile features do exist, they are not always sufficient or easy to detect.
+This inspired the development of a smart, camera-based web application that can recognize the currency value using image detection and then provide audio feedback or large visual prompts, making it more accessible and reliable for everyone.
+
+Why It’s Important:
+Many daily tasks like shopping, travel, banking, and donations involve handling cash.
+Misidentification may lead to unintended financial loss or dependency on others.
+With this software, vision-impaired users can simply capture or scan a currency note, and the system will speak out or display the note value clearly.
 
 Project Overview:
 The Currency Detector website is a computer vision-based web application that allows users to upload or capture images of currency notes, and it will identify the denomination and provide information such as currency value, authenticity features, and other details. This is especially useful for educational, assistive, or financial applications.
